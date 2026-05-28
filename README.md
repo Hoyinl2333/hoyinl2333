@@ -1,5 +1,5 @@
 👋 Hi I'm Yunduo Xiao
 
-🎧 Lets STUDY WITH MIKU!!!
+🎧 Let's STUDY WITH MIKU!!!
 
 ![studywithmiku](assets/STUDY_WITH_MIKU_part1.gif)
